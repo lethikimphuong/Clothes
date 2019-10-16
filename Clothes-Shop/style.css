@@ -113,10 +113,10 @@ color: blue;
     height: 310px;
 }
 #footera1{
-    margin-top: -30px;
+    margin-top: 20px;
     width: 384px;
     height: 259px;
-    display: inline-block;
+    float: left;
 }
 #footera1 button{
     border: none;
